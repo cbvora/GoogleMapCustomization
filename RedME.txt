@@ -1,0 +1,3 @@
+Serch any place
+Click inside Ahmedabd = > Green Bubble 
+Click outside Ahmedabad = > Red Bubble
